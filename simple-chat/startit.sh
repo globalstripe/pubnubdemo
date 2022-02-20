@@ -1,0 +1,3 @@
+export REACT_APP_PUB_KEY=pub-c-a1f1dc6b-b802-413b-9d4f-31563c8a2e08
+export REACT_APP_SUB_KEY=ub-c-299f0f32-9234-11ec-8158-ea060f348a12
+npm run
